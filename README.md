@@ -6,8 +6,8 @@ My github stats :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxER10)](https://github.com/anuraghazra/github-readme-stats)
 -
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=OxER10&theme=chartreuse-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OxER10&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OxER10&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OxER10&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
 </a>
