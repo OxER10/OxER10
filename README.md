@@ -1,2 +1,2 @@
-Hi there 👋
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OxER10&theme=hacker&type=png)](https://git.io/streak-stats)
+WIP 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxER10_icons=true&theme=shadow_green)
