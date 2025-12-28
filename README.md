@@ -10,7 +10,6 @@ I am a curious Computer Science student at Tampere University of Applied Science
 
 - I'm currently pursuing my Bachelor's degree in Computer Science at Tampere Universityu of Applied Sciences.
 - Proud member and current webmaster of the [Source](https://hackernoon.com/), contributing to our school's department club.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 
 ## Tech Stack
