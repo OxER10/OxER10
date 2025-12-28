@@ -25,7 +25,7 @@ I am a curious Computer Science student at Tampere University of Applied Science
 - Work in process ;)
 
 
-## 📬 Get in Touch
+## Get in Touch
 
 - Send and email on [oskari.jarvinen@tuni.fi](mailto:oskari.jarvinen@tuni.fi)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/oskari-j%C3%A4rvinen-10048117b/) WIP!
