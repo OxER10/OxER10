@@ -2,11 +2,8 @@
 
 I am a curious Computer Science student at Tampere University of Applied Sciences, driven by my passion for technology and a love for coding and researching. My goal is to learn the world of computer science broadly, and sharing my insights and findings with the community.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=OxER10&theme=chartreuse-dark" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OxER10&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OxER10&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## About Me
