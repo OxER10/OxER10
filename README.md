@@ -9,7 +9,7 @@ I am a curious Computer Science student at Tampere University of Applied Science
 ## About Me
 
 - I'm currently pursuing my Bachelor's degree in Computer Science at Tampere Universityu of Applied Sciences.
-- Proud member and current webmaster of the [Source](https://www.source.club/), contributing to our school's department club.
+- Proud member and current webmaster of the [SOURCE ry](https://www.source.club/), contributing to our school's department club.
 
 
 ## Tech Stack
