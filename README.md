@@ -24,7 +24,7 @@ I am a curious Computer Science student at Tampere University of Applied Science
 
  ## Achievements
  
-- [Creadly certifications:](https://www.credly.com/users/oskari-jarvinen)
+- [Credly certifications:](https://www.credly.com/users/oskari-jarvinen)
 
 ## Get in Touch
 
