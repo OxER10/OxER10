@@ -1,6 +1,6 @@
 # Hello there, I'm Oskari!
 
-I am a curious Computer Science student at Tampere University of Applied Sciences, driven by my passion for technology and a love for coding and researching. My goal is to learn the world of computer science broadly, and sharing my insights and findings with the community.
+I am a curious Computer Science student at Tampere University of Applied Sciences, driven by my passion for technology and a love for scripting and researching. My goal is to learn the world of computer science broadly, and sharing my insights and findings with the community.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OxER10&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320)](https://github.com/anuraghazra/convoychat)
 
@@ -16,7 +16,7 @@ I am a curious Computer Science student at Tampere University of Applied Science
 ## Currently Exploring
 
 - Networking and security skills
-  - Hacking the box
+  - Try hack the box
 - Learning reverse engineering
   - Trying to understand x86-64
 - Researching quantum computing
