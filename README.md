@@ -16,7 +16,7 @@ I am a curious Computer Science student at Tampere University of Applied Science
 ## Currently Exploring
 
 - Networking and security skills
-  - Try hack the box
+  - [Try hack](https://tryhackme.com/p/OxER10) [the box](https://profile.hackthebox.com/profile/019d54e0-4b98-7149-b3dd-08e0f1fb81b5)
 - Learning reverse engineering
   - Trying to understand x86-64
 - Researching quantum computing
